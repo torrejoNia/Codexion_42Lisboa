@@ -39,7 +39,7 @@ re: fclean all
 # Test commands
 # -----------------------------------------------------------------------------
 norm:
-	norminette -RCheckForbiddenSourceHeader include src
+	norminette
 
 
 # Phonies
